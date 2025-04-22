@@ -149,7 +149,7 @@ Também compartilho parte dessa jornada no meu [LinkedIn](https://www.linkedin.c
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Romario-diogo&show_icons-true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -157,7 +157,8 @@ Também compartilho parte dessa jornada no meu [LinkedIn](https://www.linkedin.c
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-diogo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
