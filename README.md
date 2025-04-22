@@ -19,7 +19,7 @@
 > 
 > ### 🚨🚨🚨 `IMPORTANTE` 🚨🚨🚨
 >
->🔥 Ainda não clicou no link acima? Então aproveita essa segunda chance — ela pode te levar ao dev certo pro seu projeto.
+>🔥 Ainda não clicou no link acima? Então aproveita essa segunda chance — ela pode te levar ao dev certo `pro` seu projeto.
 >
 >
 > [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2606roma/)
