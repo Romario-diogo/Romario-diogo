@@ -9,7 +9,7 @@ Também compartilho parte dessa jornada no meu [LinkedIn](https://www.linkedin.c
 
 ---
 
-### 🤖 Caixa de ferramentas do Romario
+### 🤖 Caixa de ferramentas
 <img 
     align="left" 
     alt="Python" 
