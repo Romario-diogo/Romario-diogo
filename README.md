@@ -1,14 +1,32 @@
-# 👨🏽‍💻 Romario Diogo 
+# 👨🏽‍💻 Romario Diogo
 
 **`Desenvolvedor Python | Automação | RPA | Análise de Dados`**
 
-Me chamo Romario Diogo, sou de São Paulo e tenho uma trajetória que combina prática, evolução constante e muita curiosidade por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e aplico meus conhecimentos em projetos que envolvem automação, inteligência artificial, análise de dados e soluções web.
-Tenho um perfil bem mão na massa: gosto de aprender fazendo, resolver problemas reais e compartilhar soluções práticas. No meu portfólio e GitHub você encontra projetos voltados para automações com Python, RPA, dashboards e muito mais.
-Também compartilho parte dessa jornada no meu [LinkedIn](https://www.linkedin.com/in/2606roma/) , onde registro aprendizados, avanços e experiências que venho adquirindo como desenvolvedor. Sigo em constante aprendizado, sempre buscando transformar ideias em ferramentas úteis.
+> 👋 Me chamo **Romario Diogo**  
+> 💻 Desenvolvedor com foco prático em **automação, RPA, dados e soluções com IA**  
+> 📍 De São Paulo, curso **Análise e Desenvolvimento de Sistemas**, com aplicação real de tecnologia no dia a dia.
+> 
+> ⚙️ Tenho um perfil **mão na massa**, orientado à entrega: gosto de transformar necessidades em sistemas funcionais, automatizar processos e extrair valor dos dados.
+> 
+> 🚀 No meu GitHub você encontra projetos voltados para:
+> - Automação com Python e RPA
+> - Dashboards analíticos e visualização de dados
+> - Integrações com APIs e bots inteligentes
+>
+> 🔗 Também compartilho resultados e experiências profissionais no [LinkedIn](https://www.linkedin.com/in/2606roma/)
+>
+> ✅ **Trabalho com código limpo, funcional e focado em resolver problemas com eficiência.**
+>
+> 🚀 Ainda não clicou no link acima? Então aproveita essa segunda chance — ela pode te levar ao dev certo pro seu projeto.
+>
+>
+> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2606roma/)
+
+
 
 ---
 
-## 🤖 Caixa de ferramentas
+## 🤖 Caixa de Ferramentas
 
 ### 🐍 Linguagens de Programação
 
@@ -68,11 +86,9 @@ Também compartilho parte dessa jornada no meu [LinkedIn](https://www.linkedin.c
   </tr>
 </table>
 
+---
 
-<br/>
-<br/>
-
-<h1> 📊 Minhas Marcas como Dev</h1>
+## 📊 Minhas Marcas como Dev
 
 <table>
   <tr>
