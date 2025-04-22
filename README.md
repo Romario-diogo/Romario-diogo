@@ -2,7 +2,6 @@
 
 **`Desenvolvedor Python | Automação | RPA | Análise de Dados`**
 
-> 👋 Me chamo **Romario Diogo**  
 > 💻 Desenvolvedor com foco prático em **automação, RPA, dados e soluções com IA**  
 > 📍 De São Paulo, curso **Análise e Desenvolvimento de Sistemas**, com aplicação real de tecnologia no dia a dia.
 > 
