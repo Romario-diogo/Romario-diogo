@@ -6,7 +6,6 @@ Me chamo Romario Diogo, sou de São Paulo e tenho uma trajetória que combina pr
 Tenho um perfil bem mão na massa: gosto de aprender fazendo, resolver problemas reais e compartilhar soluções práticas. No meu portfólio e GitHub você encontra projetos voltados para automações com Python, RPA, dashboards e muito mais.
 Também compartilho parte dessa jornada no meu [LinkedIn](https://www.linkedin.com/in/2606roma/) , onde registro aprendizados, avanços e experiências que venho adquirindo como desenvolvedor. Sigo em constante aprendizado, sempre buscando transformar ideias em ferramentas úteis.
 
-
 ---
 
 ## 🤖 Caixa de ferramentas
