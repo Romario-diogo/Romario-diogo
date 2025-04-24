@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Romario Diogo
 
-**`Desenvolvedor Python | Automação | RPA | Análise de Dados`**
+**`Desenvolvedor Python | Machine Learning | Automação de Processos | RPA | Web Scraping | Análise de Dados | APIs`**
 
 > 💻 Desenvolvedor com foco prático em **automação, RPA, dados e soluções com IA**  
 > 📍 De São Paulo, curso **Análise e Desenvolvimento de Sistemas**, com aplicação real de tecnologia no dia a dia.
