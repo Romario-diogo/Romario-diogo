@@ -16,7 +16,7 @@
 >
 > ✅ **Trabalho com código limpo, funcional e focado em resolver problemas com eficiência.**
 > 
-> ### 🚨🚨🚨 `IMPORTANTE` 🚨🚨🚨
+> ### 🚨🚨 `IMPORTANTE` 🚨🚨
 >
 >🔥 Ainda não clicou no link acima? Então aproveita essa segunda chance — ela pode te levar ao dev certo `pro` seu projeto.
 >
